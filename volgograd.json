@@ -1,0 +1,26 @@
+{
+  "name": "VolgogradLUG",
+  "url": "http://volgograd.lug.ru/wiki/VolgogradLUG",
+  "location": {
+    "city": "Volgograd",
+    "country": "RU",
+    "lat": 48.7,
+    "lon": 44.51667
+  },
+  "contact": {
+    "ml": "https://lists.lug.ru/mailman/listinfo/volgograd",
+    "twitter": "@VolgogradLUG",
+    "googleplus": "https://plus.google.com/103537417482637397371"
+  },
+  "timeline": [
+    {
+      "description": "Date of group organization",
+      "timestamp": "2002-11-23",
+      "url": "http://volgograd.lug.ru/wiki/VolgogradLUG"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-29T11:26:07.763Z"
+  },
+  "api": "1.0.1"
+}
